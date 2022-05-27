@@ -1,18 +1,14 @@
 ### Hi there, I'm Tayanne 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying at Makers Academy Bootcamp
 - 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her/hers
+- 
 -->
 <div align="center">
   <a href="https://github.com/taybenca">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
