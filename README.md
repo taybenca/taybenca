@@ -3,8 +3,8 @@
 - 🔭 I’m currently studying at Makers Academy Bootcamp
 - 🌱 I’m currently learning Ruby on Rails
 - 😄 Pronouns: she/her/hers
-- 
--->
+- ⚡ You can call me Tay
+
 <div align="center">
   <a href="https://github.com/taybenca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
   <img align="center" alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
    
-  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_qjQZUgzR.png">
+  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_5VqwCREA.png">
 </div>
   
  ##
