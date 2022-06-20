@@ -1,7 +1,7 @@
 ### Hi there, I'm Tayanne 👋
 
 - 🔭 I’m currently studying at Makers Academy Bootcamp
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Ruby!
 - 😄 Pronouns: she/her/hers
 - ⚡ You can call me Tay
 
