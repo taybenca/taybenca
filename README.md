@@ -1,5 +1,6 @@
 ### Hi there, I'm Tayanne 👋
 
+- 👀 I’m looking for my first job as a developer
 - 🔭 I’m currently studying at Makers Academy Bootcamp
 - 🌱 I’m currently learning React!
 - 😄 Pronouns: she/her/hers
@@ -9,12 +10,13 @@
   <a href="https://github.com/taybenca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Tay-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt ="Tay-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Tay-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
    
