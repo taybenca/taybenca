@@ -6,6 +6,7 @@
   🎯 I'm a software engineer by Makers Academy <br>
   🌱 I’m currently learning React!<br>
   😄 Pronouns: she/her/hers<br>
+  <b><a href="https://github.com/taybenca/CV">Click here to learn more about me!</a></b>
   
 <img height="20em" src="https://img.shields.io/github/followers/taybenca.svg?style=social&label=Follow&maxAge=2592000"><br>
  <img height="20em" src="https://gpvc.arturio.dev/taybenca">
