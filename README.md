@@ -4,7 +4,7 @@
 
   👀 I’m looking for my first job as a developer <br>
   🎯 I'm a software engineer by Makers Academy <br>
-  🌱 I’m currently learning React!<br>
+  🌱 I’m currently learning React on Udacity!<br>
   😄 Pronouns: she/her/hers<br>
   <b><a href="https://github.com/taybenca/CV">Click here to learn more about me!</a></b>
   
