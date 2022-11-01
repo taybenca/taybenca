@@ -14,10 +14,12 @@
 
 <div align="center">
   <a href="http://www.github.com/taybenca">
-    <img height="150em" src="https://taybenca.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://taybenca.vercel.app/api/top-langs/?username=taybenca&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&theme=dracula&langs_count=7"/>
   </a>
 </div>
+
+
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
