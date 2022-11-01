@@ -19,7 +19,6 @@
   </a>
 </div>
 
-
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
@@ -27,10 +26,6 @@
   <img align="center" alt ="Tay-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Tay-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Tay-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-   
-  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_5VqwCREA.png">
-</div>
   
  ##
   
