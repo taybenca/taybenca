@@ -2,8 +2,7 @@
 
   ### Hi there, I'm Tay Bencardino <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-  👀 I’m looking for my first job as a developer <br>
-  🎯 I'm a software engineer by Makers Academy <br>
+  🎯 I'm a software engineer at Rightmove <br>
   🌱 I’m currently learning React on Udacity!<br>
   😄 Pronouns: she/her/hers<br>
   <b><a href="https://github.com/taybenca/CV">Click here to learn more about me!</a></b>
