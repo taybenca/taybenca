@@ -15,7 +15,7 @@
   <a href="http://www.github.com/taybenca">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taybenca&show_icons=true&theme=dracula&include_all_commits=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&theme=dracula&langs_count=7"/>
-  </a>
+ </a>
 </div>
 
   
