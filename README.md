@@ -3,7 +3,7 @@
   ### Hi there, I'm Tay Bencardino <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   🎯 I'm a Front-end Software Engineer at Rightmove <br>
-  🌱 I’m currently reading React 18 Design Patterns and Best Practices<br>
+  🌱 I’m currently reading Clean Coder by Uncle Bob<br>
   <b><a href="https://github.com/taybenca/CV">Click here to learn more about me!</a></b>
   
  <img height="20em" src="https://img.shields.io/github/followers/taybenca.svg?style=social&label=Follow&maxAge=2592000"><br>
