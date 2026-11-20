@@ -3,7 +3,6 @@
   ### Hi there, I'm Tay Bencardino <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   🎯 I'm a Front-end Software Engineer at Rightmove <br>
-  🌱 I’m currently reading Clean Architecture by Uncle Bob<br>
   
  <img height="20em" src="https://img.shields.io/github/followers/taybenca.svg?style=social&label=Follow&maxAge=2592000"><br>
 
